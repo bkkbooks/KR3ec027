@@ -24,10 +24,10 @@ assets:
   - {seq: 4, filename: KR3ec027_004.yaml, hash: 'sha256:f9cb1a364aa65ddf2a578ffcbb7909c5f1b49a4af62d443d39436cac2be7bbba'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR3ec027_000.markers.yaml, hash: 'sha256:4bc04dd6f78a82eb3763282f171e64a3256066acf3f261a83a950cbaccd53c61'}
-  - {seq: 1, role: markers, filename: assets/KR3ec027_001.markers.yaml, hash: 'sha256:edfaef7676fb507911f5e75866241b9381b12765eea63b3d56cd9d67c389c6c0'}
+  - {seq: 1, role: markers, filename: assets/KR3ec027_001.markers.yaml, hash: 'sha256:a281fdb21ed4f8caf19f8e518c65561968678b927b8790e4dcd9f84d7f9e8f38'}
   - {seq: 2, role: markers, filename: assets/KR3ec027_002.markers.yaml, hash: 'sha256:ae7d01497d82c903114c36d6df39d7ee2d6494a7d7e60b0e671b1df4aa91706d'}
   - {seq: 3, role: markers, filename: assets/KR3ec027_003.markers.yaml, hash: 'sha256:f3be0fcf9851be2e0ab91125b25944072566059e9df76f93de0755b01292e2e4'}
-  - {seq: 4, role: markers, filename: assets/KR3ec027_004.markers.yaml, hash: 'sha256:64be33ca1d79fef8910a8256b372f1b2bb4b463e5064439bb339e11f8e1aa42a'}
+  - {seq: 4, role: markers, filename: assets/KR3ec027_004.markers.yaml, hash: 'sha256:e10d01430913351be461b141dff22593ac4fa6a772a8238ef8763e7178bcff05'}
 table_of_contents:
 - ref:
     seq: 0
@@ -6529,7 +6529,7 @@ table_of_contents:
   label: 三煎藥水火之應用
   type: section
   level: 3
-hash: sha256:23abfe028a88e056f5a6a3f428ad8f886170edaed6faf5e6e4cd886cb26e746f
+hash: sha256:1431c67ffcd9dd491a81d9cb909dc931684ebe6d93c950dc09e601e756c817b6
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
