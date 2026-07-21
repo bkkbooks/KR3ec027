@@ -17,13 +17,13 @@ metadata:
     short: jc
 assets:
   parts:
-  - {seq: 0, filename: KR3ec027_000-jc.yaml, hash: 'sha256:ce645e515102b0fe2f20eaf1b620d394ff374c60548a2512a081f1c786548441'}
+  - {seq: 0, filename: KR3ec027_000-jc.yaml, hash: 'sha256:debf055e9bd45d9009e9f795e825fba49c774eef5e2953cb657475aedc97b6bd'}
   - {seq: 1, filename: KR3ec027_001-jc.yaml, hash: 'sha256:96bf24286b96e74b438a5cfaa76843eed20c3a7c7df84b52a1ccbc0f2885ce0a'}
   - {seq: 2, filename: KR3ec027_002-jc.yaml, hash: 'sha256:f915dc46ab21fcce9c5fc347b9f0094bf643be319e64c1ce5ac392b052748188'}
   - {seq: 3, filename: KR3ec027_003-jc.yaml, hash: 'sha256:22cbe96c7b9ac44ca3ff044d1069cd0624f68340de9b316c2b4e69c532791eac'}
   - {seq: 4, filename: KR3ec027_004-jc.yaml, hash: 'sha256:d3ed6fbde58943f461ad243d4a0c1c11365c561cd78061cff1010375dbefeed7'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ec027_000-jc.markers.yaml, hash: 'sha256:a2ed28234497720ab2c25e143a73d12a4a53f36a14a939e1723ffaa05b8a7029'}
+  - {seq: 0, role: markers, filename: assets/KR3ec027_000-jc.markers.yaml, hash: 'sha256:4e312d001563a7866ce8483128668e11a898a5a5f229a58a96036ea6630da6ed'}
   - {seq: 1, role: markers, filename: assets/KR3ec027_001-jc.markers.yaml, hash: 'sha256:282e7f8c8f56aa13f91a977d1da0db951dbf67e60e14c28990a0c33926b28681'}
   - {seq: 2, role: markers, filename: assets/KR3ec027_002-jc.markers.yaml, hash: 'sha256:47e6f7227d3850c48633f36417e7fe88e2a148d996d5d93d49ef81c203d84b3f'}
   - {seq: 3, role: markers, filename: assets/KR3ec027_003-jc.markers.yaml, hash: 'sha256:481647eb6d75c3240efe34acc64682c48cb276743a8826b3a3d876fdca8d55d5'}
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ec027_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 1333
   label: 序言
@@ -6529,4 +6529,4 @@ table_of_contents:
   label: 三煎藥水火之應用
   type: section
   level: 3
-hash: sha256:70b8ed83768b17ca5d18764ff649283da3828c1a4f272dd700cc9f017706e6ca
+hash: sha256:c625fe794158b4444a05296b7070fd7ba5088bc0926137ec0e07f9870f653d4e
